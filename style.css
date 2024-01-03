@@ -45,6 +45,7 @@ body {
 .info h1{
     margin-bottom: 15px;
     font-size: 40px;
+    line-height: 46px;
 }
 
 .info p {
