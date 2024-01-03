@@ -134,9 +134,11 @@ body {
     cursor: pointer;
 }
 
-.free-trial h1 {
+.free-trial a {
     display: flex;
     justify-content: center;
+    text-decoration: none;
+    color: #fff;
 }
 
 .term {
@@ -145,8 +147,10 @@ body {
     padding: 30px;
 }
 
-.term strong {
-    color: rgb(206, 99, 99);    
+.term a {
+    text-decoration: none;
+    color:  rgb(206, 99, 99);
+    font-weight: bolder;   
 }
 
 @media (max-width: 900px){
