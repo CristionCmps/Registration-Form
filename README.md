@@ -1,14 +1,13 @@
+Formulário de Cadastro - Menu Page.
+-
+💻 Tecnologias utilizadas: HTML5, Css3 e Java Script.
 
-# Projeto Formulário de Cadastro
+🛠️ Validação de Formulário - Nome, sobrenome, e-mail e senha.
 
-Projeto de Validação de Formulário 
+⚠️ - Mensagem de ERROR sinalizando a falhas no cadastro.
 
-Tecnologias utilizadas HTML5, Css3 e Java Script.
+Skills Project: Variáveis de CSS e HTML, Flexbox, e CSS Grid.
 
-Design desktop first e mobile, focado na experiência do usuário em ambos dispositivos.
-Responsivo, se adapta perfeitamente em telas de diferentes tamanhos.
-
-Skills Project:
-Variáveis de CSS,
-Flexbox,
-e CSS Grid.
+---
+Design Responsivo - Desktop, Tablet e Mobile. 
+Se adapta perfeitamente em tamanhos diferentes de tela focado na experiência de usuário.
